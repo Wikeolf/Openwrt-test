@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/TravMurav/openwrt.git
+  REPO_URL: https://github.com/a520ass/openwrt.git
   REPO_BRANCH: msm8916
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
